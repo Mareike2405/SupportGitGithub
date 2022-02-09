@@ -50,7 +50,7 @@
       </fileDesc>
       <profileDesc>
          <langUsage>
-            <language ident="gmh">moyen haut allemand tardif 1350-1650</language>
+            <language ident="">moyen haut allemand tardif 1350-1650</language>
          </langUsage>
       </profileDesc>
    </teiHeader>
@@ -65,72 +65,72 @@
                         <p>
                            <lb n="1"/>Die schöffele Zum encker
                            <lb n="2"/>Item <persName><roleName>her</roleName>
-                              <forename>Obreht</forename>
+                              <vorname>Obreht</vorname>
                               <surname>Schalck</surname> der <roleName>ammeister</roleName></persName>
-                           <lb n="3"/>Item <persName><forename>Cünrat</forename>
+                           <lb n="3"/>Item <persName><vorname>Cünrat</vorname>
                               <surname>Armbruster In Brantgasse</surname></persName>
-                           <lb n="4"/>Item <persName><forename>Hanns</forename>
+                           <lb n="4"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Amlung</surname></persName>
-                           <lb n="5"/>Item <persName><forename>Reimbolt</forename>
+                           <lb n="5"/>Item <persName><vorname>Reimbolt</vorname>
                               <surname>Phige</surname></persName>
-                           <lb n="6"/>Item <persName><forename>Hanns</forename>
+                           <lb n="6"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Lumbart</surname></persName>
-                           <lb n="7"/>Item <persName><forename>Steffan</forename>
+                           <lb n="7"/>Item <persName><vorname>Steffan</vorname>
                               <surname>Lumbart</surname></persName>
-                           <lb n="8"/>Item <persName><forename>Hanns</forename>
+                           <lb n="8"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Armbruster</surname> der <roleName>rotherre</roleName></persName>
-                           <lb n="9"/>Item <persName><forename>Heinrich</forename>
+                           <lb n="9"/>Item <persName><vorname>Heinrich</vorname>
                               <surname>Bisinger</surname></persName>
-                           <lb n="10"/>Item <persName><forename>Hanns</forename>
+                           <lb n="10"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Wissenburg</surname></persName>
-                           <lb n="11"/>Item <persName><forename>Hanns</forename>
+                           <lb n="11"/>Item <persName><vorname>Hanns</vorname>
                               <surname>von Lutesheim</surname></persName>
-                           <lb n="12"/>Item <persName><forename>Jacop</forename>
+                           <lb n="12"/>Item <persName><vorname>Jacop</vorname>
                               <surname>Hage</surname></persName>
-                           <lb n="13"/>Item <persName><forename>Cüntzel</forename>
+                           <lb n="13"/>Item <persName><vorname>Cüntzel</vorname>
                               <surname>Merckel</surname></persName>
-                           <lb n="14"/>Item <persName><forename>Frantz</forename>
+                           <lb n="14"/>Item <persName><vorname>Frantz</vorname>
                               <surname>Berner</surname></persName>
-                           <lb n="15"/>Item <persName><forename>Heintz</forename>
+                           <lb n="15"/>Item <persName><vorname>Heintz</vorname>
                               <surname>Jude</surname></persName>
-                           <lb n="16"/>Item <persName><forename>Jacob</forename>
+                           <lb n="16"/>Item <persName><vorname>Jacob</vorname>
                               <surname>Amlung</surname></persName>
                            <lb n="17"/>Item <persName>der <roleName>zinsmeister</roleName></persName></p>
                      </div>
                      <div type="Poele" n="Zum_Schiff">
                         <p>
                            <lb n="18"/>Züm schiff
-                           <lb n="19"/>Item <persName><forename>Laulin</forename>
+                           <lb n="19"/>Item <persName><vorname>Laulin</vorname>
                               <surname>Rebe</surname></persName>
-                           <lb n="20"/>Item <persName><forename>Hanns</forename>
+                           <lb n="20"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Schaffener</surname></persName>
-                           <lb n="21"/>Item <persName><forename>Panteleon</forename>
+                           <lb n="21"/>Item <persName><vorname>Panteleon</vorname>
                               <surname>Schultheiss</surname></persName>
-                           <lb n="22"/>Item <persName><forename>Lawelin</forename>
+                           <lb n="22"/>Item <persName><vorname>Lawelin</vorname>
                               <surname>Erbe</surname></persName>
-                           <lb n="23"/>Item <persName><forename>Hensel</forename>
+                           <lb n="23"/>Item <persName><vorname>Hensel</vorname>
                               <surname>Reb</surname></persName>
-                           <lb n="24"/>Item <persName><forename>Cüne</forename></persName>
-                           <lb n="25"/>Item <persName><forename>Hensel</forename>
+                           <lb n="24"/>Item <persName><vorname>Cüne</vorname></persName>
+                           <lb n="25"/>Item <persName><vorname>Hensel</vorname>
                               <surname>Cüne</surname></persName>
-                           <lb n="26"/>Item <persName><forename>Heinrich</forename>
+                           <lb n="26"/>Item <persName><vorname>Heinrich</vorname>
                               <surname>Lise</surname></persName>
                         </p>
                      </div>
                      <div type="Poele" n="Zum_Hirtzhorn">
                         <p>
                            <lb n="27"/>Züm hirtzhorn
-                           <lb n="28"/>Item <persName><forename>Peter</forename>
+                           <lb n="28"/>Item <persName><vorname>Peter</vorname>
                               <surname>Wiss</surname></persName>
-                           <lb n="29"/>Item <persName><forename>Diebolt</forename>
+                           <lb n="29"/>Item <persName><vorname>Diebolt</vorname>
                               <surname>Diether</surname></persName>
-                           <lb n="30"/>Item <persName><forename>Hanseman</forename>
+                           <lb n="30"/>Item <persName><vorname>Hanseman</vorname>
                               <surname>Jeger</surname></persName></p>
                      </div>
                      <div type="Poele" n="Zum_Holtzapfel">
                         <p>
                            <lb n="31"/>Züm holtzappfel
-                           <lb n="32"/>Item <persName><forename>Heintz</forename>
+                           <lb n="32"/>Item <persName><vorname>Heintz</vorname>
                               <surname>Hirse</surname></persName>
                         </p>
                      </div>
@@ -141,57 +141,57 @@
                         <p>
                            <lb n="1"/>Die schöffele Züm Spiegel
                            <lb n="2"/>Item <persName><roleName>her</roleName>
-                              <forename>Adam</forename>
+                              <vorname>Adam</vorname>
                               <surname>Riffe</surname>
                               <roleName>altammeister</roleName> der <roleName>rotherre</roleName></persName>
-                           <lb n="3"/>Item <persName><forename>Peter</forename>
+                           <lb n="3"/>Item <persName><vorname>Peter</vorname>
                               <surname>Voltz</surname>
                               <genName>der alte</genName></persName>
-                           <lb n="4"/>Item <persName><forename>Marx</forename>
+                           <lb n="4"/>Item <persName><vorname>Marx</vorname>
                               <surname>Barpfennig</surname></persName>
-                           <lb n="5"/>Item <persName><forename>Rüdolff</forename>
+                           <lb n="5"/>Item <persName><vorname>Rüdolff</vorname>
                               <surname>Barpfennig</surname></persName>
-                           <lb n="6"/>Item <persName><forename>Peter</forename>
+                           <lb n="6"/>Item <persName><vorname>Peter</vorname>
                               <surname>Brucker</surname></persName>
-                           <lb n="7"/>Item <persName><forename>Peter</forename>
+                           <lb n="7"/>Item <persName><vorname>Peter</vorname>
                               <surname>Riffe</surname></persName>
-                           <lb n="8"/>Item <persName><forename>Andres</forename>
+                           <lb n="8"/>Item <persName><vorname>Andres</vorname>
                               <surname>Hapmacher</surname></persName>
-                           <lb n="9"/>Item <persName><forename>Claus</forename>
+                           <lb n="9"/>Item <persName><vorname>Claus</vorname>
                               <surname>Böschwiller</surname></persName>
-                           <lb n="10"/>Item <persName><forename>Heinrich</forename>
+                           <lb n="10"/>Item <persName><vorname>Heinrich</vorname>
                               <surname>Slempe</surname></persName>
-                           <lb n="11"/>Item <persName><forename>Bernhart</forename>
+                           <lb n="11"/>Item <persName><vorname>Bernhart</vorname>
                               <surname>Scholle</surname></persName>
-                           <lb n="12"/>Item <persName><forename>Fridel</forename>
+                           <lb n="12"/>Item <persName><vorname>Fridel</vorname>
                               <surname>von Seckingen</surname></persName>
-                           <lb n="13"/>Item <persName><forename>Jacop</forename>
+                           <lb n="13"/>Item <persName><vorname>Jacop</vorname>
                               <surname>Wormsser</surname></persName>
-                           <lb n="14"/>Item <persName><forename>Erhart</forename>
+                           <lb n="14"/>Item <persName><vorname>Erhart</vorname>
                               <surname>Stange</surname></persName>
-                           <lb n="15"/>Item <persName><forename>Gilge</forename>
+                           <lb n="15"/>Item <persName><vorname>Gilge</vorname>
                               <surname>Stange</surname></persName>
-                           <lb n="16"/>Item <persName><forename>Claus</forename>
+                           <lb n="16"/>Item <persName><vorname>Claus</vorname>
                               <surname>Würant</surname></persName>
-                           <lb n="17"/>Item <persName><forename>Hanns</forename>
+                           <lb n="17"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Menser</surname></persName>
-                           <lb n="18"/>Item <persName><forename>Peter</forename>
+                           <lb n="18"/>Item <persName><vorname>Peter</vorname>
                               <surname>von Cölne</surname></persName>
-                           <lb n="19"/>Item <persName><forename>Hanns</forename>
+                           <lb n="19"/>Item <persName><vorname>Hanns</vorname>
                               <surname>von Northus</surname></persName>
-                           <lb n="20"/>Item <persName><forename>Peter</forename>
+                           <lb n="20"/>Item <persName><vorname>Peter</vorname>
                               <surname>Arge</surname></persName>
-                           <lb n="21"/>Item <persName><forename>Peter</forename>
+                           <lb n="21"/>Item <persName><vorname>Peter</vorname>
                               <surname>Ofentürer</surname></persName>
-                           <lb n="22"/>Item <persName><forename>Hanns</forename>
+                           <lb n="22"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Dundenheim</surname></persName>
-                           <lb n="23"/>Item <persName><forename>Peter</forename>
+                           <lb n="23"/>Item <persName><vorname>Peter</vorname>
                               <surname>Dundenheim</surname></persName>
-                           <lb n="24"/>Item <persName><forename>Steffan</forename>
+                           <lb n="24"/>Item <persName><vorname>Steffan</vorname>
                               <surname>Sahsse</surname></persName>
-                           <lb n="25"/>Item <persName><forename>Diebolt</forename>
+                           <lb n="25"/>Item <persName><vorname>Diebolt</vorname>
                               <surname>von Marle</surname></persName>
-                           <lb n="26"/>Item <persName><forename>Erhart</forename>
+                           <lb n="26"/>Item <persName><vorname>Erhart</vorname>
                               <surname>Vilinger</surname></persName></p>
                      </div>
                   </div>
@@ -201,65 +201,65 @@
                         <p>
                            <lb n="1"/>Die Schöffele Zür Blümen
                            <lb n="2"/>Item <persName><roleName>her</roleName>
-                              <forename>Hanns</forename>
+                              <vorname>Hanns</vorname>
                               <surname>Meistersheim</surname>
                               <roleName>altammeister</roleName> der <roleName>rotherre</roleName></persName>
-                           <lb n="3"/>Item <persName><forename>Wilhelm</forename>
+                           <lb n="3"/>Item <persName><vorname>Wilhelm</vorname>
                               <surname>Rotschilt</surname></persName>
-                           <lb n="4"/>Item <persName><forename>Hanns</forename>
+                           <lb n="4"/>Item <persName><vorname>Hanns</vorname>
                               <surname>von Berse</surname></persName>
-                           <lb n="5"/>Item <persName><forename>Conrat</forename>
+                           <lb n="5"/>Item <persName><vorname>Conrat</vorname>
                               <surname>von Berse</surname></persName>
-                           <lb n="6"/>Item <persName><forename>Wilhelm</forename>
+                           <lb n="6"/>Item <persName><vorname>Wilhelm</vorname>
                               <surname>Betscholt</surname></persName>
-                           <lb n="7"/>Item <persName><forename>Mathis</forename>
+                           <lb n="7"/>Item <persName><vorname>Mathis</vorname>
                               <surname>von Hasela</surname></persName>
-                           <lb n="8"/>Item <persName><forename>Voltz</forename>
+                           <lb n="8"/>Item <persName><vorname>Voltz</vorname>
                               <surname>Wormsser</surname></persName>
-                           <lb n="9"/>Item <persName><forename>Hanns</forename>
+                           <lb n="9"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Kalt</surname></persName>
-                           <lb n="10"/>Item <persName><forename>Jacob</forename>
+                           <lb n="10"/>Item <persName><vorname>Jacob</vorname>
                               <surname>Volmar</surname></persName>
-                           <lb n="11"/>Item <persName><forename>Heinrich</forename>
+                           <lb n="11"/>Item <persName><vorname>Heinrich</vorname>
                               <surname>Museler</surname></persName>
-                           <lb n="12"/>Item <persName><forename>Götze</forename>
+                           <lb n="12"/>Item <persName><vorname>Götze</vorname>
                               <surname>Offenburg</surname></persName>
-                           <lb n="13"/>Item <persName><forename>Hanns</forename>
+                           <lb n="13"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Behtolt</surname></persName>
-                           <lb n="14"/>Item <persName><forename>Claus</forename>
+                           <lb n="14"/>Item <persName><vorname>Claus</vorname>
                               <surname>Lügerlin</surname></persName>
                         </p>
                      </div>
                   </div>
                   <pb n="70v"/>
-                  <div type="corporation" n="Zum_Freiburger">
-                     <div type="Poele" n="corporation_des_cabarretiers">
+                  <div type="Poele" n="corporation_des_cabarretiers">
+                     <div type="corporation" n="Zum_Freiburger">
                         <p>
                            <lb n="1"/>Die schöffele züm friburg
                            <lb n="2"/>Item <persName><roleName
                                  >her</roleName>
-                              <forename>Hug</forename>
+                              <vorname>Hug</vorname>
                               <surname>Dossenheim</surname>
                               <roleName>altammeister</roleName></persName>
-                           <lb n="3"/>Item <persName><forename>Andres</forename>
+                           <lb n="3"/>Item <persName><vorname>Andres</vorname>
                               <surname>Mesener</surname></persName>
-                           <lb n="4"/>Item <persName><forename>Claus</forename>
+                           <lb n="4"/>Item <persName><vorname>Claus</vorname>
                               <surname>Ackenfüs</surname></persName>
-                           <lb n="5"/>Item <persName><forename>Eberhart</forename>
+                           <lb n="5"/>Item <persName><vorname>Eberhart</vorname>
                               <surname>von Truhtersheim</surname></persName>
-                           <lb n="6"/>Item <persName><forename>Erhart</forename>
+                           <lb n="6"/>Item <persName><vorname>Erhart</vorname>
                               <surname>Bömgarter</surname></persName>
-                           <lb n="7"/>Item <persName><forename>Stoffelus</forename>
+                           <lb n="7"/>Item <persName><vorname>Stoffelus</vorname>
                               <surname>Brüder</surname></persName>
-                           <lb n="8"/>Item <persName><forename>Claus</forename>
+                           <lb n="8"/>Item <persName><vorname>Claus</vorname>
                               <surname>Dossenheim</surname></persName>
-                           <lb n="9"/>Item <persName><forename>Heinrich</forename>
+                           <lb n="9"/>Item <persName><vorname>Heinrich</vorname>
                               <surname>Stocker</surname></persName>
-                           <lb n="10"/>Item <persName><forename>Claus</forename>
+                           <lb n="10"/>Item <persName><vorname>Claus</vorname>
                               <surname>Bömgarter</surname> der <roleName>rotherre</roleName></persName>
-                           <lb n="11"/>Item <persName><forename>Wilhelm</forename>
+                           <lb n="11"/>Item <persName><vorname>Wilhelm</vorname>
                               <surname>von Schaffoltzheim</surname></persName>
-                           <lb n="12"/>Item <persName><forename>Fritsch</forename>
+                           <lb n="12"/>Item <persName><vorname>Fritsch</vorname>
                               <surname>von Hirtingheim</surname></persName>
                         </p>
                      </div>
@@ -270,65 +270,65 @@
                         <lb n="1"/>Die dücher schöffele
                         <lb n="2"/>Item <persName><roleName
                               >her</roleName>
-                           <forename>Conrat</forename>
+                           <vorname>Conrat</vorname>
                            <surname>Armbruster</surname>
                            <roleName>altammeister</roleName> der <roleName>rotherre</roleName></persName>
-                        <lb n="3"/>Item <persName><forename>Heinrich</forename>
+                        <lb n="3"/>Item <persName><vorname>Heinrich</vorname>
                            <surname>Lymer</surname></persName>
-                        <lb n="4"/>Item <persName><forename>Hanns</forename>
+                        <lb n="4"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Renner</surname>
                            <genName>der alte</genName></persName>
-                        <lb n="5"/>Item <persName><forename>Hanns</forename>
+                        <lb n="5"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Renner</surname>
                            <genName>der junge</genName></persName>
-                        <lb n="6"/>Item <persName><forename>Jacob</forename>
+                        <lb n="6"/>Item <persName><vorname>Jacob</vorname>
                            <surname>von Belheim</surname></persName>
-                        <lb n="7"/>Item <persName><forename>Cüne</forename>
+                        <lb n="7"/>Item <persName><vorname>Cüne</vorname>
                            <surname>Düringer</surname>
                            <genName>der alte</genName></persName>
-                        <lb n="8"/>Item <persName><forename>Cüne</forename>
+                        <lb n="8"/>Item <persName><vorname>Cüne</vorname>
                            <surname>Düringer</surname>
                            <genName>der junge</genName></persName>
-                        <lb n="9"/>Item <persName><forename>Claus</forename>
+                        <lb n="9"/>Item <persName><vorname>Claus</vorname>
                            <surname>Biderman</surname></persName>
-                        <lb n="10"/>Item <persName><forename>Jacob</forename>
+                        <lb n="10"/>Item <persName><vorname>Jacob</vorname>
                            <surname>von Wantzen</surname></persName>
-                        <lb n="11"/>Item <persName><forename>Hanns</forename>
+                        <lb n="11"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Odertzheim</surname></persName>
-                        <lb n="12"/>Item <persName><forename>Hanns</forename>
+                        <lb n="12"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Steinbach</surname></persName>
-                        <lb n="13"/>Item <persName><forename>Claus</forename>
+                        <lb n="13"/>Item <persName><vorname>Claus</vorname>
                            <surname>Weber</surname></persName>
-                        <lb n="14"/>Item <persName><forename>Claus</forename>
+                        <lb n="14"/>Item <persName><vorname>Claus</vorname>
                            <surname>von Rore</surname></persName>
                      </p>
                   </div>
                   <div type="corporation" n="corporation_des_marchands_de_grains">
                      <p>
                         <lb n="15"/>Die kornlüte schöffel
-                        <lb n="16"/>Item <persName><forename>Ottman</forename>
+                        <lb n="16"/>Item <persName><vorname>Ottman</vorname>
                            <surname>Franckenheim</surname></persName>
-                        <lb n="17"/>Item <persName><forename>Hanns</forename>
+                        <lb n="17"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Kesselring</surname></persName>
-                        <lb n="18"/>Item <persName><forename>Hanns</forename>
+                        <lb n="18"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Melbrüge</surname></persName>
-                        <lb n="19"/>Item <persName><forename>Berman</forename>
+                        <lb n="19"/>Item <persName><vorname>Berman</vorname>
                            <surname>von Nüfer</surname></persName>
-                        <lb n="20"/>Item <persName><forename>Claus</forename>
+                        <lb n="20"/>Item <persName><vorname>Claus</vorname>
                            <surname>Kriegesheim</surname></persName>
-                        <lb n="21"/>Item <persName><forename>Hanns</forename>
+                        <lb n="21"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Stumpff</surname> der <roleName>rotherre</roleName></persName>
-                        <lb n="22"/>Item <persName><forename>Peter</forename>
+                        <lb n="22"/>Item <persName><vorname>Peter</vorname>
                            <surname>von Rore</surname></persName>
-                        <lb n="23"/>Item <persName><forename>Hanns</forename>
+                        <lb n="23"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Günter</surname></persName>
-                        <lb n="24"/>Item <persName><forename>Heinrich</forename>
+                        <lb n="24"/>Item <persName><vorname>Heinrich</vorname>
                            <surname>Birböm</surname></persName>
-                        <lb n="25"/>Item <persName><forename>Heinrich</forename>
+                        <lb n="25"/>Item <persName><vorname>Heinrich</vorname>
                            <surname>Griffe</surname></persName>
-                        <lb n="26"/>Item <persName><forename>Claus</forename>
+                        <lb n="26"/>Item <persName><vorname>Claus</vorname>
                            <surname>Vendenheim</surname></persName>
-                        <lb n="27"/>Item <persName><forename>Peter</forename>
+                        <lb n="27"/>Item <persName><vorname>Peter</vorname>
                            <surname>Metziger</surname></persName>
                      </p>
                   </div>
@@ -337,34 +337,34 @@
                      <p>
                         <lb n="1"/>Die schöffel Zür Mörlin
                         <lb n="2"/>Item <persName><roleName>her</roleName>
-                           <forename>Lienhart</forename>
+                           <vorname>Lienhart</vorname>
                            <surname>Trachenfeils</surname>
                            <roleName>altammeister</roleName></persName>
-                        <lb n="3"/>Item <persName><forename>Andres</forename>
+                        <lb n="3"/>Item <persName><vorname>Andres</vorname>
                            <surname>Smerwer</surname></persName>
-                        <lb n="4"/>Item <persName><forename>Dietherman</forename>
+                        <lb n="4"/>Item <persName><vorname>Dietherman</vorname>
                            <surname>Saltzmütter</surname></persName>
-                        <lb n="5"/>Item <persName><forename>Hanns</forename>
+                        <lb n="5"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Trachenfeils</surname></persName>
-                        <lb n="6"/>Item <persName><forename>Hanns</forename>
+                        <lb n="6"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Hitzvelder</surname></persName>
-                        <lb n="7"/>Item <persName><forename>Diebolt</forename>
+                        <lb n="7"/>Item <persName><vorname>Diebolt</vorname>
                            <surname>Trachenfeils</surname> der <roleName>rotherre</roleName></persName>
-                        <lb n="8"/>Item <persName><forename>Florentz</forename>
+                        <lb n="8"/>Item <persName><vorname>Florentz</vorname>
                            <surname>Willekin</surname></persName>
-                        <lb n="9"/>Item <persName><forename>Burkhart</forename>
+                        <lb n="9"/>Item <persName><vorname>Burkhart</vorname>
                            <surname>Siferman</surname></persName>
-                        <lb n="10"/>Item <persName><forename>Veltin</forename>
+                        <lb n="10"/>Item <persName><vorname>Veltin</vorname>
                            <surname>Helle</surname></persName>
-                        <lb n="11"/>Item <persName><forename>Hanns</forename>
+                        <lb n="11"/>Item <persName><vorname>Hanns</vorname>
                            <surname>von Crützenach</surname></persName>
-                        <lb n="12"/>Item <persName><forename>Heinrich</forename>
+                        <lb n="12"/>Item <persName><vorname>Heinrich</vorname>
                            <surname>Leheman</surname></persName>
-                        <lb n="13"/>Item <persName><forename>Claus</forename>
+                        <lb n="13"/>Item <persName><vorname>Claus</vorname>
                            <surname>von Ernoltzheim</surname></persName>
-                        <lb n="14"/>Item <persName><forename>Claus</forename>
+                        <lb n="14"/>Item <persName><vorname>Claus</vorname>
                            <surname>Kannengiesser</surname></persName>
-                        <lb n="15"/>Item <persName><forename>Mertz</forename>
+                        <lb n="15"/>Item <persName><vorname>Mertz</vorname>
                            <addName>in Krutenouwe</addName></persName>
                      </p>
                   </div>
@@ -375,56 +375,56 @@
                      <div type="Poele" n="orfevre">
                         <p>
                            <lb/>Goltsmid
-                           <lb n="17"/>Item <persName><forename>Jerge</forename>
+                           <lb n="17"/>Item <persName><vorname>Jerge</vorname>
                               <surname>Anshelm</surname></persName>
-                           <lb n="18"/>Item <persName><forename>Peter</forename>
+                           <lb n="18"/>Item <persName><vorname>Peter</vorname>
                               <surname>Missebach</surname></persName>
-                           <lb n="19"/>Item <persName><forename>Hanns</forename>
+                           <lb n="19"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Newiller</surname></persName>
-                           <lb n="20"/>Item <persName><forename>Jacob</forename>
+                           <lb n="20"/>Item <persName><vorname>Jacob</vorname>
                               <surname>Friburger</surname></persName>
-                           <lb n="21"/>Item <persName><forename>Hanns</forename>
+                           <lb n="21"/>Item <persName><vorname>Hanns</vorname>
                               <surname>von Sletstat</surname></persName>
-                           <lb n="22"/>Item <persName><forename>Peter</forename>
+                           <lb n="22"/>Item <persName><vorname>Peter</vorname>
                               <surname>Arige</surname></persName>
-                           <lb n="23"/>Item <persName><forename>Hanns</forename>
+                           <lb n="23"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Vegersheim</surname></persName>
-                           <lb n="24"/>Item <persName><forename>Hanns</forename>
+                           <lb n="24"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Clein</surname>
                               <roleName>müntzmeister</roleName></persName>
-                           <lb n="25"/>Item <persName><forename>Jacop</forename>
+                           <lb n="25"/>Item <persName><vorname>Jacop</vorname>
                               <surname>Lowe</surname></persName>
-                           <lb n="26"/>Item <persName><forename>Peter</forename>
+                           <lb n="26"/>Item <persName><vorname>Peter</vorname>
                               <surname>Berner</surname></persName>
                         </p>
                      </div>
                      <div type="Poele" n="peintres_de_boucliers">
                         <p>
                            <lb/>Schilter
-                           <lb n="27"/>Item <persName><forename>Andres</forename>
+                           <lb n="27"/>Item <persName><vorname>Andres</vorname>
                               <surname>Smalriem</surname></persName>
-                           <lb n="28"/>Item <persName><forename>Hirtz</forename>
+                           <lb n="28"/>Item <persName><vorname>Hirtz</vorname>
                               <surname>Meister</surname></persName>
-                           <lb n="29"/>Item <persName><forename>Hanns</forename>
+                           <lb n="29"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Ott</surname></persName>
-                           <lb n="30"/>Item <persName><forename>Hanns</forename>
+                           <lb n="30"/>Item <persName><vorname>Hanns</vorname>
                               <surname>von Sletstat</surname> der <roleName>rotherre</roleName></persName>
-                           <lb n="31"/>Item <persName><forename>Heinrich</forename>
+                           <lb n="31"/>Item <persName><vorname>Heinrich</vorname>
                               <surname>Snewel</surname></persName>
-                           <lb n="32"/>Item <persName><forename>Adolff</forename>
+                           <lb n="32"/>Item <persName><vorname>Adolff</vorname>
                               <surname>Smalriem</surname></persName>
-                           <lb n="33"/>Item <persName><forename>Claus</forename>
+                           <lb n="33"/>Item <persName><vorname>Claus</vorname>
                               <surname>von Mentz</surname></persName>
-                           <lb n="34"/>Item <persName><forename>Hanns</forename>
+                           <lb n="34"/>Item <persName><vorname>Hanns</vorname>
                               <surname>von Molsheim</surname>
                               <roleName type="métier">armbruster</roleName></persName>
-                           <lb n="35"/>Item <persName><forename>Ülrich</forename>
+                           <lb n="35"/>Item <persName><vorname>Ülrich</vorname>
                               <surname>Glaser</surname></persName>
-                           <lb n="36"/>Item <persName><forename>Martin</forename>
+                           <lb n="36"/>Item <persName><vorname>Martin</vorname>
                               <surname>Ernst</surname></persName>
-                           <lb n="37"/>Item <persName><forename>Hertzog</forename>
+                           <lb n="37"/>Item <persName><vorname>Hertzog</vorname>
                               <surname>Glaser</surname></persName>
-                           <lb n="38"/>Item <persName><forename>Hanns</forename>
+                           <lb n="38"/>Item <persName><vorname>Hanns</vorname>
                               <surname>von Altzheim</surname></persName></p>
                      </div>
                   </div>
@@ -433,59 +433,59 @@
                      <p>
                         <lb n="1"/>Der brotbecker schöffele
                         <lb n="2"/>Item <persName><roleName>her</roleName>
-                           <forename>Jacob</forename>
+                           <vorname>Jacob</vorname>
                            <surname>von Geistpoltzheim</surname>
                            <roleName>altammeister</roleName></persName>
-                        <lb n="3"/>Item <persName><forename>Claus</forename>
+                        <lb n="3"/>Item <persName><vorname>Claus</vorname>
                            <surname>Linser</surname> der <roleName>rotherre</roleName></persName>
-                        <lb n="4"/>Item <persName><forename>Mathis</forename>
+                        <lb n="4"/>Item <persName><vorname>Mathis</vorname>
                            <surname>von Ettenheim</surname></persName>
-                        <lb n="5"/>Item <persName><forename>Fritsch</forename>
+                        <lb n="5"/>Item <persName><vorname>Fritsch</vorname>
                            <surname>Hapmacher</surname></persName>
-                        <lb n="6"/>Item <persName><forename>Adam</forename>
+                        <lb n="6"/>Item <persName><vorname>Adam</vorname>
                            <surname>von Molsheim</surname></persName>
-                        <lb n="7"/>Item <persName><forename>Walther</forename>
+                        <lb n="7"/>Item <persName><vorname>Walther</vorname>
                            <surname>Dür</surname></persName>
-                        <lb n="8"/>Item <persName><forename>Jacop</forename>
+                        <lb n="8"/>Item <persName><vorname>Jacop</vorname>
                            <surname>Sporer</surname></persName>
-                        <lb n="9"/>Item <persName><forename>Cüntz</forename>
+                        <lb n="9"/>Item <persName><vorname>Cüntz</vorname>
                            <surname>zü dem Tröschen</surname></persName>
-                        <lb n="10"/>Item <persName><forename>Hanns</forename>
+                        <lb n="10"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Sporer</surname></persName>
-                        <lb n="11"/>Item <persName><forename>Jacob</forename>
+                        <lb n="11"/>Item <persName><vorname>Jacob</vorname>
                            <surname>Waldener</surname></persName>
-                        <lb n="12"/>Item <persName><forename>Hanns</forename>
+                        <lb n="12"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Franck</surname></persName>
-                        <lb n="13"/>Item <persName><forename>Gilge</forename></persName>
+                        <lb n="13"/>Item <persName><vorname>Gilge</vorname></persName>
                      </p>
                   </div>
                   <div type="corporation" n="corporation_des_pelletiers">
                      <p>
                         <lb n="14"/>Der kürsener schöffeler
-                        <lb n="15"/>Item <persName><forename>Claus</forename>
+                        <lb n="15"/>Item <persName><vorname>Claus</vorname>
                            <surname>Zür Hellen</surname> der <roleName>rotherre</roleName></persName>
-                        <lb n="16"/>Item <persName><forename>Götze</forename>
+                        <lb n="16"/>Item <persName><vorname>Götze</vorname>
                            <surname>von Hagenowe</surname></persName>
-                        <lb n="17"/>Item <persName><forename>Claus</forename>
+                        <lb n="17"/>Item <persName><vorname>Claus</vorname>
                            <surname>Wissensel</surname></persName>
-                        <lb n="18"/>Item <persName><forename>Diebolt</forename>
+                        <lb n="18"/>Item <persName><vorname>Diebolt</vorname>
                            <surname>Spirer</surname></persName>
-                        <lb n="19"/>Item <persName><forename>Hanns</forename>
+                        <lb n="19"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Spirer</surname></persName>
-                        <lb n="20"/>Item <persName><forename>Hanns</forename>
+                        <lb n="20"/>Item <persName><vorname>Hanns</vorname>
                            <surname>von Jenff</surname></persName>
-                        <lb n="21"/>Item <persName><forename>Niclaus</forename>
+                        <lb n="21"/>Item <persName><vorname>Niclaus</vorname>
                            <surname>von Erffürt</surname></persName>
-                        <lb n="22"/>Item <persName><forename>Heinrich</forename>
+                        <lb n="22"/>Item <persName><vorname>Heinrich</vorname>
                            <surname>Rosegart</surname></persName>
-                        <lb n="23"/>Item <persName><forename>Symont</forename>
+                        <lb n="23"/>Item <persName><vorname>Symont</vorname>
                            <surname>von Ehenheim</surname></persName>
-                        <lb n="24"/>Item <persName><forename>Andres</forename>, Martin Hensels sün</persName>
-                        <lb n="25"/> Item <persName><forename>Veltin</forename>
+                        <lb n="24"/>Item <persName><vorname>Andres</vorname>, Martin Hensels sün</persName>
+                        <lb n="25"/> Item <persName><vorname>Veltin</vorname>
                            <surname>von Ehenheim</surname></persName>
-                        <lb n="26"/>Item <persName><forename>Martin</forename>
+                        <lb n="26"/>Item <persName><vorname>Martin</vorname>
                            <surname>Westerman</surname></persName>
-                        <lb n="27"/>Item <persName><forename>Lauwelin</forename>
+                        <lb n="27"/>Item <persName><vorname>Lauwelin</vorname>
                            <surname>Dolde</surname></persName>
                      </p>
                   </div>
@@ -494,56 +494,56 @@
                      <p>
                         <lb n="1"/>Der küffer schöffele
                         <lb n="2"/>Item <persName><roleName>her</roleName>
-                           <forename>Claus</forename>
+                           <vorname>Claus</vorname>
                            <surname>Schanlit</surname>
                            <roleName>altammeister</roleName></persName>
-                        <lb n="3"/>Item <persName><forename>Claus</forename>
+                        <lb n="3"/>Item <persName><vorname>Claus</vorname>
                            <surname>Vetter</surname></persName>
-                        <lb n="4"/>Item <persName><forename>Hanns</forename>
+                        <lb n="4"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Bretteler</surname></persName>
-                        <lb n="5"/>Item <persName><forename>Hanns</forename>
+                        <lb n="5"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Dingesheim</surname></persName>
-                        <lb n="6"/>Item <persName><forename>Heintzeman</forename>
+                        <lb n="6"/>Item <persName><vorname>Heintzeman</vorname>
                            <surname>Holtzhüser</surname></persName>
-                        <lb n="7"/>Item <persName><forename>Wernlin</forename>
+                        <lb n="7"/>Item <persName><vorname>Wernlin</vorname>
                            <addName>an Steinstrosse</addName></persName>
-                        <lb n="8"/>Item <persName><forename>Hanns</forename>
+                        <lb n="8"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Güngesheim</surname>
                            <addName>uff Sant Elizabet gasse</addName></persName>
-                        <lb n="9"/>Item <persName><forename>Hans</forename>
+                        <lb n="9"/>Item <persName><vorname>Hans</vorname>
                            <surname>Dalheim</surname>
                            <addName>under Kürsener</addName></persName>
-                        <lb n="10"/>Item <persName><forename>Claus</forename>
+                        <lb n="10"/>Item <persName><vorname>Claus</vorname>
                            <surname>von Barre</surname></persName>
-                        <lb n="11"/>Item <persName><forename>Peter</forename>
+                        <lb n="11"/>Item <persName><vorname>Peter</vorname>
                            <surname>Selig</surname></persName>
-                        <lb n="12"/>Item <persName><forename>Martzolff</forename></persName>
-                        <lb n="13"/>Item <persName><forename>Hanns</forename>
+                        <lb n="12"/>Item <persName><vorname>Martzolff</vorname></persName>
+                        <lb n="13"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Nefe</surname></persName>
                      </p>
                   </div>
                   <div type="corporation" n="corporation_des_tanneurs">
                      <p>
                         <lb n="14"/>Der gerwer schöffele
-                        <lb n="15"/>Item <persName><forename>Claus</forename>
+                        <lb n="15"/>Item <persName><vorname>Claus</vorname>
                            <surname>Duntzenheim</surname> der <roleName>rotherre</roleName></persName>
-                        <lb n="16"/>Item <persName><forename>Hanns</forename>
+                        <lb n="16"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Bitsch</surname></persName>
-                        <lb n="17"/>Item <persName><forename>Hanns</forename>
+                        <lb n="17"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Lore</surname></persName>
-                        <lb n="18"/>Item <persName><forename>Erhart</forename>
+                        <lb n="18"/>Item <persName><vorname>Erhart</vorname>
                            <surname>von Isenhusen</surname></persName>
-                        <lb n="19"/>Item <persName><forename>Claus</forename>
+                        <lb n="19"/>Item <persName><vorname>Claus</vorname>
                            <surname>Lange</surname></persName>
-                        <lb n="20"/>Item <persName><forename>Claus</forename>
+                        <lb n="20"/>Item <persName><vorname>Claus</vorname>
                            <surname>Kücheler</surname></persName>
-                        <lb n="21"/>Item <persName><forename>Hanns</forename>
+                        <lb n="21"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Mynner</surname></persName>
-                        <lb n="22"/>Item <persName><forename>Hanns</forename>
+                        <lb n="22"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Vendenheim</surname></persName>
-                        <lb n="23"/>Item <persName><forename>Diebolt</forename>
+                        <lb n="23"/>Item <persName><vorname>Diebolt</vorname>
                            <surname>von Sant</surname></persName>
-                        <lb n="24"/>Item <persName><forename>Peter</forename>
+                        <lb n="24"/>Item <persName><vorname>Peter</vorname>
                            <surname>von Molsheim</surname></persName>
                      </p>
                   </div>
@@ -551,62 +551,62 @@
                   <div type="corporation" n="corporation_des_gourmets_et_courtiers">
                      <p>
                         <lb n="1"/>Der Winsticher schöffele
-                        <lb n="2"/>Item <persName><forename>Hanns</forename>
+                        <lb n="2"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Schenck</surname>
                            <genName>der alte</genName></persName>
-                        <lb n="3"/>Item <persName><forename>Sitze</forename> der <roleName>stallmeister</roleName></persName>
-                        <lb n="4"/>Item <persName><forename>Jacob</forename>
+                        <lb n="3"/>Item <persName><vorname>Sitze</vorname> der <roleName>stallmeister</roleName></persName>
+                        <lb n="4"/>Item <persName><vorname>Jacob</vorname>
                            <surname>Hafener</surname>
                            <roleName>kouffhusherre</roleName></persName>
-                        <lb n="5"/>Item <persName><forename>Hanns</forename>
+                        <lb n="5"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Seger</surname> der <roleName>rotherre</roleName></persName>
-                        <lb n="6"/>Item <persName><forename>Diebolt</forename>
+                        <lb n="6"/>Item <persName><vorname>Diebolt</vorname>
                            <surname>Brant</surname></persName>
-                        <lb n="7"/>Item <persName><forename>Wilhelm</forename>
+                        <lb n="7"/>Item <persName><vorname>Wilhelm</vorname>
                            <surname>von Schuttern</surname></persName>
-                        <lb n="8"/>Item <persName><forename>Fridel</forename>
+                        <lb n="8"/>Item <persName><vorname>Fridel</vorname>
                            <surname>Sidenfaden</surname></persName>
-                        <lb n="9"/>Item <persName><forename>Bernhart</forename>
+                        <lb n="9"/>Item <persName><vorname>Bernhart</vorname>
                            <surname>züm Rade</surname></persName>
-                        <lb n="10"/>Item <persName><forename>Hanns</forename>
+                        <lb n="10"/>Item <persName><vorname>Hanns</vorname>
                            <surname>von Ütenheim</surname></persName>
-                        <lb n="11"/>Item <persName><forename>Peter</forename>
+                        <lb n="11"/>Item <persName><vorname>Peter</vorname>
                            <addName>zür Kronen</addName></persName>
-                        <lb n="12"/>Item <persName><forename>Alhelm</forename>
+                        <lb n="12"/>Item <persName><vorname>Alhelm</vorname>
                            <surname>von Worms</surname></persName>
-                        <lb n="13"/>Item <persName><forename>Hanns</forename>
+                        <lb n="13"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Kipkorn</surname>
                            <roleName>schaffener</roleName></persName></p>
                   </div>
                   <div type="corporation" n="corporation_des_tailleurs">
                      <p>
                         <lb n="14"/>Der snyder schöffele
-                        <lb n="15"/>Item <persName><forename>Sifrit</forename>
+                        <lb n="15"/>Item <persName><vorname>Sifrit</vorname>
                            <surname>Zerig</surname> der <roleName>rotherre</roleName></persName>
-                        <lb n="16"/>Item <persName><forename>Jacob</forename>
+                        <lb n="16"/>Item <persName><vorname>Jacob</vorname>
                            <surname>Rotgebe</surname></persName>
-                        <lb n="17"/>Item <persName><forename>Monschin</forename></persName>
-                        <lb n="18"/>Item <persName><forename>Hanns</forename>
+                        <lb n="17"/>Item <persName><vorname>Monschin</vorname></persName>
+                        <lb n="18"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Zoller</surname></persName>
-                        <lb n="19"/>Item <persName><forename>Heinrich</forename>
+                        <lb n="19"/>Item <persName><vorname>Heinrich</vorname>
                            <surname>Eckendorff</surname></persName>
-                        <lb n="20"/>Item <persName><forename>Conrat</forename>
+                        <lb n="20"/>Item <persName><vorname>Conrat</vorname>
                            <surname>Arnolt</surname></persName>
-                        <lb n="21"/>Item <persName><forename>Conrat</forename>
+                        <lb n="21"/>Item <persName><vorname>Conrat</vorname>
                            <surname>Schrotbanck</surname></persName>
-                        <lb n="22"/>Item <persName><forename>Dietrich</forename>
+                        <lb n="22"/>Item <persName><vorname>Dietrich</vorname>
                            <surname>Leistman</surname></persName>
-                        <lb n="23"/>Item <persName><forename>Heinrich</forename>
+                        <lb n="23"/>Item <persName><vorname>Heinrich</vorname>
                            <surname>von Dürnyngen</surname></persName>
-                        <lb n="24"/>Item <persName><forename>Ortliep</forename>
+                        <lb n="24"/>Item <persName><vorname>Ortliep</vorname>
                            <surname>Schrotbanck</surname></persName>
-                        <lb n="25"/>Item <persName><forename>Hanns</forename>
+                        <lb n="25"/>Item <persName><vorname>Hanns</vorname>
                            <surname>von Lutern</surname></persName>
-                        <lb n="26"/>Item <persName><forename>Krafft</forename>
+                        <lb n="26"/>Item <persName><vorname>Krafft</vorname>
                            <surname>von Mentz</surname></persName>
-                        <lb n="27"/>Item <persName><forename>Hanns</forename>
+                        <lb n="27"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Hüsz</surname></persName>
-                        <lb n="28"/>Item <persName><forename>Hanns</forename>
+                        <lb n="28"/>Item <persName><vorname>Hanns</vorname>
                            <surname>von Sungouwe</surname></persName>
                      </p>
                   </div>
@@ -614,37 +614,37 @@
                   <div type="corporation" n="corporation_des_forgerons">
                      <p>
                         <lb n="1"/>Der smyde schöffele
-                        <lb n="2"/>Item <persName><forename>Heinrich</forename>
+                        <lb n="2"/>Item <persName><vorname>Heinrich</vorname>
                            <surname>Meiger</surname></persName>
-                        <lb n="3"/>Item <persName><forename>Peter</forename>
+                        <lb n="3"/>Item <persName><vorname>Peter</vorname>
                            <surname>Vilinger</surname></persName>
-                        <lb n="4"/>Item <persName><forename>Rüle</forename>
+                        <lb n="4"/>Item <persName><vorname>Rüle</vorname>
                            <surname>von Truhtersheim</surname></persName>
-                        <lb n="5"/>Item <persName><forename>Lienhart</forename>
+                        <lb n="5"/>Item <persName><vorname>Lienhart</vorname>
                            <surname>Welsh</surname></persName>
-                        <lb n="6"/>Item <persName><forename>Cüntz</forename>
+                        <lb n="6"/>Item <persName><vorname>Cüntz</vorname>
                            <surname>Rosenberg</surname></persName>
-                        <lb n="7"/>Item <persName><forename>Claus</forename>
+                        <lb n="7"/>Item <persName><vorname>Claus</vorname>
                            <surname>Lembelin</surname></persName>
-                        <lb n="8"/>Item <persName><forename>Götze</forename>
+                        <lb n="8"/>Item <persName><vorname>Götze</vorname>
                            <surname>Omeder</surname></persName>
-                        <lb n="9"/>Item <persName><forename>Heinrich</forename>
+                        <lb n="9"/>Item <persName><vorname>Heinrich</vorname>
                            <surname>Erstenberg</surname></persName>
-                        <lb n="10"/>Item <persName><forename>Hanns</forename>
+                        <lb n="10"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Wideman</surname> der <roleName>rotherre</roleName></persName>
-                        <lb n="11"/>Item <persName><forename>Hanns</forename>
+                        <lb n="11"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Glockengiesser</surname></persName>
-                        <lb n="12"/>Item <persName><forename>Hanns</forename>
+                        <lb n="12"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Wiszysen</surname></persName>
-                        <lb n="13"/>Item <persName><forename>Peter</forename>
+                        <lb n="13"/>Item <persName><vorname>Peter</vorname>
                            <surname>Adam</surname></persName>
-                        <lb n="14"/>Item <persName><forename>Hanns</forename>
+                        <lb n="14"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Allewelt</surname></persName>
-                        <lb n="15"/>Item <persName><forename>Ludeman</forename>
+                        <lb n="15"/>Item <persName><vorname>Ludeman</vorname>
                            <addName>am vischmercket</addName></persName>
-                        <lb n="16"/>Item <persName><forename>Claus</forename>
+                        <lb n="16"/>Item <persName><vorname>Claus</vorname>
                            <surname>von Belheim</surname></persName>
-                        <lb n="17"/>Item <persName><forename>Behtolt</forename>
+                        <lb n="17"/>Item <persName><vorname>Behtolt</vorname>
                            <surname>Stückgarter</surname></persName>
                      </p>
                   </div>
@@ -656,26 +656,26 @@
                      <div type="Poele" n="Mesureurs_de_vin">
                         <p>
                            <lb/>Winmesser
-                           <lb n="20"/>Item <persName><forename>Hanns</forename>
+                           <lb n="20"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Hechede</surname></persName>
-                           <lb n="21"/>Item <persName><forename>Richart</forename>
+                           <lb n="21"/>Item <persName><vorname>Richart</vorname>
                               <surname>von Heiligenstein</surname></persName>
-                           <lb n="22"/>Item <persName><forename>Hanseman</forename>
+                           <lb n="22"/>Item <persName><vorname>Hanseman</vorname>
                               <surname>Stalle</surname></persName>
-                           <lb n="23"/>Item <persName><forename>Jost</forename>
+                           <lb n="23"/>Item <persName><vorname>Jost</vorname>
                               <surname>Lötysen</surname></persName>
                         </p>
                      </div>
                      <div type="Poele" n="Crieurs_de_vin">
                         <p>
                            <lb/>Winrüffer
-                           <lb n="24"/>Item <persName><forename>Hanns</forename>
+                           <lb n="24"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Stüdel</surname> der <roleName>rotherre</roleName></persName>
-                           <lb n="25"/>Item <persName><forename>Claus</forename>
+                           <lb n="25"/>Item <persName><vorname>Claus</vorname>
                               <surname>Bintzel</surname></persName>
-                           <lb n="26"/>Item <persName><forename>Jeckel</forename>
+                           <lb n="26"/>Item <persName><vorname>Jeckel</vorname>
                               <surname>Swartz</surname></persName>
-                           <lb n="27"/>Item <persName><forename>Veltin</forename></persName>
+                           <lb n="27"/>Item <persName><vorname>Veltin</vorname></persName>
                         </p>
                      </div>
                   </div>
@@ -684,49 +684,44 @@
                      <div type="Poele" n="Barbiers">
                         <p>
                            <lb n=""/>Der scherer schöffele
-                           <lb n=""/>Item <persName><forename>Rüdolff</forename></persName>
-                           <lb n=""/>Item <persName><forename>Walther</forename>
+                           <lb n=""/>Item <persName><vorname>Rüdolff</vorname></persName>
+                           <lb n=""/>Item <persName><vorname>Walther</vorname>
                               <addName>zü Sant Thoman</addName> der <roleName>rotherre</roleName></persName>
-                           <lb n=""/>Item <persName><forename>Peter</forename>
-                           <lb n="1"/>Der scherer schöffele
-                           <lb n="2"/>Item <persName><vorname>Rüdolff</vorname></persName>
-                           <lb n="3"/>Item <persName><vorname>Walther</vorname>
-                              <addName>zü Sant Thoman</addName> der <roleName>rotherre</roleName></persName>
-                           <lb n="4"/>Item <persName><vorname>Peter</vorname>
+                           <lb n=""/>Item <persName><vorname>Peter</vorname>
                               <surname>von Brümat</surname></persName>
                            <lb n="5"/>Item <persName><surname>Wurtzgart</surname></persName>
-                           <lb n="6"/>Item <persName><forename>Hanns</forename>
+                           <lb n="6"/>Item <persName><vorname>Hanns</vorname>
                               <addName>züm Sluch</addName></persName>
-                           <lb n="7"/>Item <persName><forename>Hanns</forename>
+                           <lb n="7"/>Item <persName><vorname>Hanns</vorname>
                               <surname>von Molsheim</surname></persName>
-                           <lb n="8"/>Item <persName><forename>Richart</forename></persName>
-                           <lb n="9"/>Item <persName><forename>Michel</forename>
+                           <lb n="8"/>Item <persName><vorname>Richart</vorname></persName>
+                           <lb n="9"/>Item <persName><vorname>Michel</vorname>
                               <addName>zü Sant Steffan</addName></persName>
-                           <lb n="10"/>Item <persName><forename>Jörge</forename>
+                           <lb n="10"/>Item <persName><vorname>Jörge</vorname>
                               <surname>Wolff</surname></persName>
-                           <lb n="11"/>Item <persName><forename>Hanns</forename>
+                           <lb n="11"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Müsung</surname></persName>
-                           <lb n="12"/>Item <persName><forename>Claus</forename>
+                           <lb n="12"/>Item <persName><vorname>Claus</vorname>
                               <addName>by der Metzigen</addName></persName>
-                           <lb n="13"/>Item <persName><forename>Heinrich</forename>
+                           <lb n="13"/>Item <persName><vorname>Heinrich</vorname>
                               <addName>by Sant Martin</addName></persName></p>
                      </div>
                      <div type="Poele" n="Baigneurs">
                         <p>
                            <lb n="14"/>Der Bader schöffele
-                           <lb n="15"/>Item <persName><forename>Andres</forename>
+                           <lb n="15"/>Item <persName><vorname>Andres</vorname>
                               <addName>am Pfennigturn</addName></persName>
-                           <lb n="16"/>Item <persName><forename>Ohswalt</forename>
+                           <lb n="16"/>Item <persName><vorname>Ohswalt</vorname>
                               <surname>Flach</surname></persName>
-                           <lb n="17"/>Item <persName><forename>Marx</forename>
+                           <lb n="17"/>Item <persName><vorname>Marx</vorname>
                               <surname>Rorer</surname></persName>
-                           <lb n="18"/>Item <persName><forename>Peter</forename>
+                           <lb n="18"/>Item <persName><vorname>Peter</vorname>
                               <surname>Rorer</surname></persName>
-                           <lb n="19"/>Item <persName><forename>Hanseman</forename>
+                           <lb n="19"/>Item <persName><vorname>Hanseman</vorname>
                               <surname>Wolff</surname></persName>
-                           <lb n="20"/>Item <persName><forename>Üntzel</forename>
+                           <lb n="20"/>Item <persName><vorname>Üntzel</vorname>
                               <addName>uff dem Graben</addName></persName>
-                           <lb n="21"/>Item <persName><forename>Andres</forename>
+                           <lb n="21"/>Item <persName><vorname>Andres</vorname>
                               <addName>under Kürsenern</addName></persName>
                         </p>
                      </div>
@@ -738,36 +733,36 @@
                      <div type="Poele" n="Huiliers">
                         <p>
                            <lb/>Olelüte
-                           <lb n="23"/>Item <persName><forename>Peter</forename>
+                           <lb n="23"/>Item <persName><vorname>Peter</vorname>
                               <surname>von Lampertheim</surname></persName>
-                           <lb n="24"/>Item <persName><forename>Ülrich</forename>
+                           <lb n="24"/>Item <persName><vorname>Ülrich</vorname>
                               <surname>von Lampertheim</surname></persName>
-                           <lb n="25"/>Item <persName><forename>Claus</forename>
+                           <lb n="25"/>Item <persName><vorname>Claus</vorname>
                               <surname>von Lampertheim</surname></persName>
-                           <lb n="26"/>Item <persName><forename>Claus</forename>
+                           <lb n="26"/>Item <persName><vorname>Claus</vorname>
                               <surname>Kempff</surname></persName>
-                           <lb n="27"/>Item <persName><forename>Lentzel</forename>
+                           <lb n="27"/>Item <persName><vorname>Lentzel</vorname>
                               <addName>am Vischmercket</addName></persName>
                         </p>
                      </div>
                      <div type="Poele" n="Tondeurs_de_draps">
                         <p>
                            <lb/>Düchscherer
-                           <lb n="28"/>Item <persName><forename>Cüntz</forename>
+                           <lb n="28"/>Item <persName><vorname>Cüntz</vorname>
                               <surname>von Mentze</surname></persName>
-                           <lb n="29"/>Item <persName><forename>Gabehert</forename></persName>
-                           <lb n="30"/>Item <persName><forename>Jerge</forename>
+                           <lb n="29"/>Item <persName><vorname>Gabehert</vorname></persName>
+                           <lb n="30"/>Item <persName><vorname>Jerge</vorname>
                               <surname>Schaffener</surname></persName>
                         </p>
                      </div>
                      <div type="Poele" n="Meuniers">
                         <p>
                            <lb/>Müller
-                           <lb n="31"/>Item <persName><forename>Behtolt</forename>
+                           <lb n="31"/>Item <persName><vorname>Behtolt</vorname>
                               <surname>Hügeler</surname></persName>
-                           <lb n="32"/>Item <persName><forename>Claus</forename>
+                           <lb n="32"/>Item <persName><vorname>Claus</vorname>
                               <surname>Fründe</surname></persName>
-                           <lb n="33"/>Item <persName><forename>Hanns</forename>
+                           <lb n="33"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Knapp</surname></persName>
                         </p>
                      </div>
@@ -776,35 +771,35 @@
                   <div type="corporation" n="corporation_des_cordonniers">
                      <p>
                         <lb n="1"/>Der schühemacher schöffel
-                        <lb n="2"/>Item <persName><forename>Hanns</forename>
+                        <lb n="2"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Pfowe</surname></persName>
-                        <lb n="3"/>Item <persName><forename>Cüntze</forename>
+                        <lb n="3"/>Item <persName><vorname>Cüntze</vorname>
                            <surname>Heiden</surname> der <roleName>rotherre</roleName></persName>
-                        <lb n="4"/>Item <persName><forename>Bernhart</forename>
+                        <lb n="4"/>Item <persName><vorname>Bernhart</vorname>
                            <surname>Hasenore</surname></persName>
-                        <lb n="5"/>Item <persName><forename>Obreht</forename>
+                        <lb n="5"/>Item <persName><vorname>Obreht</vorname>
                            <surname>Bender</surname></persName>
-                        <lb n="6"/>Item <persName><forename>Reimbolt</forename>
+                        <lb n="6"/>Item <persName><vorname>Reimbolt</vorname>
                            <surname>von Wile</surname></persName>
-                        <lb n="7"/>Item <persName><forename>Heintz</forename>
+                        <lb n="7"/>Item <persName><vorname>Heintz</vorname>
                            <surname>Üsenberg</surname></persName>
                         <lb n="8"/>Item <persName>der <roleName>schultheiss</roleName>
                            von <addName>Molsheim</addName></persName>
-                        <lb n="9"/>Item <persName><forename>Claus</forename>
+                        <lb n="9"/>Item <persName><vorname>Claus</vorname>
                            <surname>Smyt</surname></persName>
-                        <lb n="10"/>Item <persName><forename>Adolff</forename>
+                        <lb n="10"/>Item <persName><vorname>Adolff</vorname>
                            <surname>Stumpf</surname></persName>
-                        <lb n="11"/>Item <persName><forename>Burckart</forename>
+                        <lb n="11"/>Item <persName><vorname>Burckart</vorname>
                            <surname>Lehel</surname></persName>
-                        <lb n="12"/>Item <persName><forename>Hanns</forename>
+                        <lb n="12"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Günther</surname></persName>
-                        <lb n="13"/>Item <persName><forename>Hanns</forename>
+                        <lb n="13"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Kum noch Hint</surname></persName>
-                        <lb n="14"/>Item <persName><forename>Erhart</forename>
+                        <lb n="14"/>Item <persName><vorname>Erhart</vorname>
                            <surname>von Wangen</surname></persName>
-                        <lb n="15"/>Item <persName><forename>Hanns</forename>
+                        <lb n="15"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Hennenberg</surname></persName>
-                        <lb n="16"/>Item <persName><forename>Hanns</forename>
+                        <lb n="16"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Götze</surname></persName>
                         <lb n="17"/>Item <persName><roleName>meister</roleName>
                            <surname>Flösz</surname></persName>
@@ -817,50 +812,50 @@
                      <div type="Poele" n="Am_Oberstaden">
                         <p>
                            <lb/>Oberstaden
-                           <lb n="19"/>Item <persName><forename>Claus</forename>
+                           <lb n="19"/>Item <persName><vorname>Claus</vorname>
                               <surname>Pfaffe</surname></persName>
-                           <lb n="20"/>Item <persName><forename>Laulin</forename>
+                           <lb n="20"/>Item <persName><vorname>Laulin</vorname>
                               <surname>Butte</surname></persName>
-                           <lb n="21"/>Item <persName><forename>Mathis</forename>
+                           <lb n="21"/>Item <persName><vorname>Mathis</vorname>
                               <surname>Ülrich</surname></persName>
-                           <lb n="22"/>Item <persName><forename>Hensel</forename>
+                           <lb n="22"/>Item <persName><vorname>Hensel</vorname>
                               <surname>Röttel</surname></persName>
                         </p>
                      </div>
                      <div type="Poele" n="Hinter_Sankt-Kathrinen">
                         <p>
                            <lb/>Hinder Sant Katerinen
-                           <lb n="23"/>Item <persName><forename>Hanns</forename>
+                           <lb n="23"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Diebolt</surname></persName>
-                           <lb n="24"/>Item <persName><forename>Hanns</forename>
+                           <lb n="24"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Leheman</surname></persName>
-                           <lb n="25"/>Item <persName><forename>Michel</forename>
+                           <lb n="25"/>Item <persName><vorname>Michel</vorname>
                               <surname>Suntheim</surname></persName>
                         </p>
                      </div>
                      <div type="Poele" n="Am_Teich">
                         <p>
                            <lb/>Am Dich
-                           <lb n="26"/>Item <persName><forename>Hanns</forename>
+                           <lb n="26"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Lamb</surname> der <roleName>rotherre</roleName></persName>
-                           <lb n="27"/>Item <persName><forename>Jerge</forename>
+                           <lb n="27"/>Item <persName><vorname>Jerge</vorname>
                               <surname>Schertzheim</surname></persName>
-                           <lb n="28"/>Item <persName><forename>Behtolt</forename>
+                           <lb n="28"/>Item <persName><vorname>Behtolt</vorname>
                               <surname>Lamb</surname></persName>
-                           <lb n="29"/>Item <persName><forename>Claus</forename>
+                           <lb n="29"/>Item <persName><vorname>Claus</vorname>
                               <surname>Vachman</surname></persName>
-                           <lb n="30"/>Item <persName><forename>Dietrich</forename>
+                           <lb n="30"/>Item <persName><vorname>Dietrich</vorname>
                               <surname>Münich</surname></persName>
                         </p>
                      </div>
                      <div type="Poele" n="Zur_Wasenecke">
                         <p>
                            <lb/>Zü Waseneck
-                           <lb n="31"/>Item <persName><forename>Claus</forename>
+                           <lb n="31"/>Item <persName><vorname>Claus</vorname>
                               <surname>Lusche</surname></persName>
-                           <lb n="32"/>Item <persName><forename>Anshelm</forename>
+                           <lb n="32"/>Item <persName><vorname>Anshelm</vorname>
                               <surname>Grave</surname></persName>
-                           <lb n="33"/>Item <persName><forename>Laulin</forename>
+                           <lb n="33"/>Item <persName><vorname>Laulin</vorname>
                               <surname>Bentze</surname></persName>
                         </p>
                      </div>
@@ -869,42 +864,42 @@
                   <div type="corporation" n="constructeurs_de_bateaux">
                      <p>
                         <lb n="1"/>Der schiffzimberlüte schöffel
-                        <lb n="2"/>Item <persName><forename>Hanns</forename>
+                        <lb n="2"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Klige</surname> der <roleName>rotherre</roleName></persName>
-                        <lb n="3"/>Item <persName><forename>Hanns</forename>
+                        <lb n="3"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Hetteman</surname></persName>
-                        <lb n="4"/>Item <persName><forename>Cüntz</forename>
+                        <lb n="4"/>Item <persName><vorname>Cüntz</vorname>
                            <surname>Klie</surname></persName>
                      </p>
                   </div>
                   <div type="corporation" n="corporation_des_charrons">
                      <p>
                         <lb n="5"/>Der wagener schöffele
-                        <lb n="6"/>Item <persName><forename>Jerge</forename>
+                        <lb n="6"/>Item <persName><vorname>Jerge</vorname>
                            <surname>Dritzehen</surname> der <roleName>schultheisse</roleName></persName>
-                        <lb n="7"/>Item <persName><forename>Peter</forename>
+                        <lb n="7"/>Item <persName><vorname>Peter</vorname>
                            <surname>Gerbott</surname> der <roleName>rotherre</roleName></persName>
-                        <lb n="8"/>Item <persName><forename>Fritsch</forename>
+                        <lb n="8"/>Item <persName><vorname>Fritsch</vorname>
                            <surname>Rinstett</surname></persName>
-                        <lb n="9"/>Item <persName><forename>Oberlin</forename>
+                        <lb n="9"/>Item <persName><vorname>Oberlin</vorname>
                            <surname>Treger</surname></persName>
-                        <lb n="10"/>Item <persName><forename>Hanns</forename>
+                        <lb n="10"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Treger</surname></persName>
-                        <lb n="11"/>Item <persName><forename>Hanns</forename>
+                        <lb n="11"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Reinhart</surname></persName>
-                        <lb n="12"/>Item <persName><forename>Hanns</forename>
+                        <lb n="12"/>Item <persName><vorname>Hanns</vorname>
                            <addName>zür Nuwenbürge</addName></persName>
-                        <lb n="13"/>Item <persName><forename>Oberlin</forename>
+                        <lb n="13"/>Item <persName><vorname>Oberlin</vorname>
                            <surname>Liebekint</surname></persName>
-                        <lb n="14"/>Item <persName><forename>Conrat</forename>
+                        <lb n="14"/>Item <persName><vorname>Conrat</vorname>
                            <surname>Sahsbach</surname></persName>
-                        <lb n="15"/>Item <persName><forename>Hanns</forename>
+                        <lb n="15"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Claus</surname></persName>
-                        <lb n="16"/>Item <persName><forename>Hanns</forename>
+                        <lb n="16"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Spilman</surname></persName>
-                        <lb n="17"/>Item <persName><forename>Jacob</forename>
+                        <lb n="17"/>Item <persName><vorname>Jacob</vorname>
                            <surname>Fursenbach</surname></persName>
-                        <lb n="18"/>Item <persName><forename>Hanseman</forename>
+                        <lb n="18"/>Item <persName><vorname>Hanseman</vorname>
                            <surname>Kiebel</surname></persName>
                      </p>
                   </div>
@@ -916,39 +911,39 @@
                      <div type="Poele" n="Unter_Wagener">
                         <p>
                            <lb n="2"/>Under wagener
-                           <lb n="3"/>Item <persName><forename>Hanns</forename>
+                           <lb n="3"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Spete</surname> der <roleName>rotherre</roleName></persName>
-                           <lb n="4"/>Item <persName><forename>Jacob</forename>
+                           <lb n="4"/>Item <persName><vorname>Jacob</vorname>
                               <surname>Clowe</surname></persName>
-                           <lb n="5"/>Item <persName><forename>Claus</forename>
+                           <lb n="5"/>Item <persName><vorname>Claus</vorname>
                               <surname>Duntzenheim</surname></persName>
-                           <lb n="6"/>Item <persName><forename>Cüntzel</forename>
+                           <lb n="6"/>Item <persName><vorname>Cüntzel</vorname>
                               <surname>Fleisch</surname>
                               <genName>der alte</genName></persName>
-                           <lb n="7"/>Item <persName><forename>Hanns</forename>
+                           <lb n="7"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Henckin</surname></persName>
-                           <lb n="8"/>Item <persName><forename>Henselin</forename>
+                           <lb n="8"/>Item <persName><vorname>Henselin</vorname>
                               <surname>Drens</surname></persName>
                         </p>
                      </div>
                      <div type="Poele" n="An_der_Steinstraße">
                         <p>
                             <lb n="9"/>An steinstrosse
-                            <lb n="10"/>Item <persName><forename>Hanns</forename>
+                            <lb n="10"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Peter</surname></persName>
-                           <lb n="11"/>Item <persName><forename>Kürin</forename></persName>
+                           <lb n="11"/>Item <persName><vorname>Kürin</vorname></persName>
                         </p>
                      </div>
                      <div type="Poele" n="In_der_Krutenau">
                         <p>
                            <lb n="12"/>Crutenouwe
-                           <lb n="13"/>Item <persName><forename>Peter</forename>
+                           <lb n="13"/>Item <persName><vorname>Peter</vorname>
                               <surname>Lampreht</surname></persName>
-                           <lb n="14"/>Item <persName><forename>Hanns</forename>
+                           <lb n="14"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Hirte</surname></persName>
-                           <lb n="15"/>Item <persName><forename>Hanns</forename>
+                           <lb n="15"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Ersam</surname></persName>
-                           <lb n="16"/>Item <persName><forename>Hanns</forename>
+                           <lb n="16"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Kilwart</surname>
                               <genName>der junge</genName></persName>
                         </p>
@@ -956,8 +951,8 @@
                      <div type="Poele" n="In_der_Ruprechtsau">
                         <p>
                            <lb n="17"/>Rüprehtzowe
-                           <lb n="18"/>Item <persName><forename>Mennel</forename></persName>
-                           <lb n="19"/>Item <persName><forename>Hensel</forename>
+                           <lb n="18"/>Item <persName><vorname>Mennel</vorname></persName>
+                           <lb n="19"/>Item <persName><vorname>Hensel</vorname>
                               <surname>Mynne</surname></persName>
                         </p>
                      </div>
@@ -966,35 +961,35 @@
                   <div type="corporation" n="corporation_des_tisserands">
                      <p>
                         <lb n="1"/>Die wöber schöffele
-                        <lb n="2"/>Item <persName><forename>Claus</forename>
+                        <lb n="2"/>Item <persName><vorname>Claus</vorname>
                            <surname>Künig</surname> der <roleName>rotherre</roleName></persName>
-                        <lb n="3"/>Item <persName><forename>Hanns</forename>
+                        <lb n="3"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Spiegel</surname></persName>
-                        <lb n="4"/>Item <persName><forename>Diebolt</forename>
+                        <lb n="4"/>Item <persName><vorname>Diebolt</vorname>
                            <surname>Renner</surname></persName>
-                        <lb n="5"/>Item <persName><forename>Hanns</forename>
+                        <lb n="5"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Koch</surname>
                            <genName>der alte</genName></persName>
-                        <lb n="6"/>Item <persName><forename>Hanns</forename>
+                        <lb n="6"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Koch</surname>
                            <genName>der junge</genName></persName>
-                        <lb n="7"/>Item <persName><forename>Hanns</forename>
+                        <lb n="7"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Girbaden</surname></persName>
-                        <lb n="8"/>Item <persName><forename>Hanseman</forename>
+                        <lb n="8"/>Item <persName><vorname>Hanseman</vorname>
                            <surname>Morung</surname></persName>
-                        <lb n="9"/>Item <persName><forename>Hanns</forename>
+                        <lb n="9"/>Item <persName><vorname>Hanns</vorname>
                            <surname>von Wile</surname></persName>
-                        <lb n="10"/>Item <persName><forename>Hanns</forename>
+                        <lb n="10"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Wyldersynn</surname></persName>
-                        <lb n="11"/>Item <persName><forename>Hanns</forename>
+                        <lb n="11"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Hebenagel</surname></persName>
-                        <lb n="12"/>Item <persName><forename>Hanns</forename>
+                        <lb n="12"/>Item <persName><vorname>Hanns</vorname>
                            <surname>von Than</surname></persName>
-                        <lb n="13"/>Item <persName><forename>Peter</forename>
+                        <lb n="13"/>Item <persName><vorname>Peter</vorname>
                            <surname>von Korck</surname></persName>
-                        <lb n="14"/>Item <persName><forename>Hanns</forename>
+                        <lb n="14"/>Item <persName><vorname>Hanns</vorname>
                            <surname>von Sletstat</surname></persName>
-                        <lb n="15"/>Item <persName><forename>Lütoltz</forename>
+                        <lb n="15"/>Item <persName><vorname>Lütoltz</vorname>
                            <surname>Michel</surname></persName>
                      </p>
                   </div>
@@ -1005,101 +1000,100 @@
                      <div type="Poele" n="Cordiers">
                         <p>
                            <lb/>Seiler
-                           <lb n="17"/>Item <persName><forename>Hanns</forename>
+                           <lb n="17"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Wipolt</surname> der <roleName>rotherre</roleName></persName>
-                           <lb n="18"/>Item <persName><forename>Fritsch</forename>
+                           <lb n="18"/>Item <persName><vorname>Fritsch</vorname>
                               <surname>Volmar</surname></persName>
-                           <lb n="19"/>Item <persName><forename>Claus</forename>
+                           <lb n="19"/>Item <persName><vorname>Claus</vorname>
                               <surname>Volmar</surname></persName>
-                           <lb n="20"/>Item <persName><forename>Hanns</forename>
+                           <lb n="20"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Swencker</surname></persName>
                         </p>
                      </div>
                      <div type="Poele" n="Fruitiers">
                         <p>
                            <lb/>Obesser
-                           <lb n="21"/>Item <persName><forename>Fritsch</forename>
+                           <lb n="21"/>Item <persName><vorname>Fritsch</vorname>
                               <surname>Götfrit</surname></persName>
-                           <lb n="22"/>Item <persName><forename>Six</forename></persName>
-                           <lb n="23"/>Item <persName><forename>Peter</forename>
+                           <lb n="22"/>Item <persName><vorname>Six</vorname></persName>
+                           <lb n="23"/>Item <persName><vorname>Peter</vorname>
                               <surname>Herbest</surname></persName>
-                           <lb n="24"/>Item <persName><forename>Veltin</forename>
+                           <lb n="24"/>Item <persName><vorname>Veltin</vorname>
                               <surname>Mittelhus</surname></persName>
-                           <lb n="25"/>Item <persName><forename>Hanns</forename>
+                           <lb n="25"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Butze</surname></persName>
-                           <lb n="26"/>Item <persName><forename>Ülrich</forename>
+                           <lb n="26"/>Item <persName><vorname>Ülrich</vorname>
                               <surname>Kiebel</surname></persName>
-                           <lb n="27"/>Item <persName><forename>Hanns</forename>
+                           <lb n="27"/>Item <persName><vorname>Hanns</vorname>
                               <surname>Porte</surname></persName>
-                           <lb n="28"/>Item <persName><forename>Hanns</forename>
+                           <lb n="28"/>Item <persName><vorname>Hanns</vorname>
                               <surname>von Bergheim</surname></persName></p>
                      </div>
-                     <div type="Poele" n="Regrattiers"> <p> <lb/>Altgewender <lb n="29"/>Item <persName><vorname>Ülrich</vorname> <surname>Weidelich</surname> der <roleName>schreiber</roleName></persName> <lb n="30"/>Item <persName><vorname>Andres</vorname> <surname>von Gemer</surname></persName> <lb n="31"/>Item <persName><vorname>Hanns</vorname> <surname>von Molsheim</surname></persName> </p> </div>
                   </div>
                   <pb n="76v"/>
                   <div type="corporation" n="corporation_des_charpentiers">
                      <p>
                         <lb n="1"/>Der zimberlüte schöffele
-                        <lb n="2"/>Item <persName><forename>Michel</forename>
+                        <lb n="2"/>Item <persName><vorname>Michel</vorname>
                            <surname>Ripel</surname>
                            <genName>der alte</genName></persName>
-                        <lb n="3"/>Item <persName><forename>Michel</forename>
+                        <lb n="3"/>Item <persName><vorname>Michel</vorname>
                            <surname>Ripel</surname>
                            <genName>der junge</genName> der <roleName>rotherre</roleName></persName>
-                        <lb n="4"/>Item <persName><forename>Fritsch</forename>
+                        <lb n="4"/>Item <persName><vorname>Fritsch</vorname>
                            <addName>uff dem Werde</addName></persName>
-                        <lb n="5"/>Item <persName><forename>Bernhart</forename>
+                        <lb n="5"/>Item <persName><vorname>Bernhart</vorname>
                            <surname>Ripel</surname></persName>
-                        <lb n="6"/>Item <persName><forename>Claus</forename>
+                        <lb n="6"/>Item <persName><vorname>Claus</vorname>
                            <surname>Graseck</surname></persName>
-                        <lb n="7"/>Item <persName><forename>Erhart</forename>
+                        <lb n="7"/>Item <persName><vorname>Erhart</vorname>
                            <surname>Winsticher</surname></persName>
-                        <lb n="8"/>Item <persName><forename>Wilhelm</forename>
+                        <lb n="8"/>Item <persName><vorname>Wilhelm</vorname>
                            <surname>von Geispoltzheim</surname></persName>
-                        <lb n="9"/> Item <persName><forename>Conrat</forename>
+                        <lb n="9"/> Item <persName><vorname>Conrat</vorname>
                            <surname>Swartz</surname></persName>
-                        <lb n="10"/>Item <persName><forename>Hanns</forename>
+                        <lb n="10"/>Item <persName><vorname>Hanns</vorname>
                            <surname>von Berckheim</surname></persName>
                      </p>
                   </div>
                   <div type="corporation" n="corporation_des_maçons">
                      <p>
                         <lb n="11"/>Der murer schöffele
-                        <lb n="12"/>Item <persName><forename>Hanns</forename>
+                        <lb n="12"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Walt</surname> der <roleName>rotherre</roleName></persName>
                         <lb n="13"/>Item <persName><roleName>meister</roleName>
                            <surname>Ammeister</surname></persName>
-                        <lb n="14"/>Item <persName><forename>Claus</forename>
+                        <lb n="14"/>Item <persName><vorname>Claus</vorname>
                            <surname>Estericher</surname></persName>
-                        <lb n="15"/>Item <persName><forename>Hanns</forename>
+                        <lb n="15"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Clein</surname> der <roleName>kacheler</roleName></persName>
-                        <lb n="16"/>Item <persName><forename>Peter</forename>
+                        <lb n="16"/>Item <persName><vorname>Peter</vorname>
                            <surname>Estericher</surname></persName>
-                        <lb n="17"/>Item <persName><forename>Michel</forename>
+                        <lb n="17"/>Item <persName><vorname>Michel</vorname>
                            <surname>Ganser</surname> der <roleName>kacheler</roleName></persName>
-                        <lb n="18"/>Item <persName><forename>Sifrit</forename>
+                        <lb n="18"/>Item <persName><vorname>Sifrit</vorname>
                            <surname>von Zabern</surname></persName>
-                        <lb n="19"/>Item <persName><forename>Hanns</forename>
+                        <lb n="19"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Smyde</surname></persName>
-                        <lb n="20"/>Item <persName><forename>Friderich</forename>
+                        <lb n="20"/>Item <persName><vorname>Friderich</vorname>
                            <surname>Bösch</surname></persName>
-                        <lb n="21"/>Item <persName><forename>Stoffelus</forename>
+                        <lb n="21"/>Item <persName><vorname>Stoffelus</vorname>
                            <surname>Wernlin</surname></persName>
-                        <lb n="22"/>Item <persName><forename>Friderich</forename> der <roleName>kacheler</roleName></persName>
+                        <lb n="22"/>Item <persName><vorname>Friderich</vorname> der <roleName>kacheler</roleName></persName>
                      </p>
                   </div>
                   <pb n="77r"/>
                   <div type="corporation" n="corporation_des_coltineurs_de_tonneaux">
                      <p>
                         <lb n="1"/>Der vassezieher schöffele
-                        <lb n="2"/>Item <persName><forename>Sigel</forename>
+                        <lb n="2"/>Item <persName><vorname>Sigel</vorname>
                            <surname>von Dürnyngen</surname> der <roleName>rotherre</roleName></persName>
-                        <lb n="3"/>Item <persName><forename>Hanns</forename>
+                        <lb n="3"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Paulus</surname></persName>
-                        <lb n="4"/>Item <persName><forename>Hanns</forename>
+                        <lb n="4"/>Item <persName><vorname>Hanns</vorname>
                            <surname>Hirt</surname>
                            <genName>der alte</genName></persName>
-                        <lb n="5"/>Item <persName><forename>Symont</forename>
+                        <lb n="5"/>Item <persName><vorname>Symont</vorname>
                            <surname>Förster</surname></persName>
                      </p>
                   </div>
