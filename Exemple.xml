@@ -232,8 +232,8 @@
                      </div>
                   </div>
                   <pb n="70v"/>
-                  <div type="Poele" n="corporation_des_cabarretiers">
-                     <div type="corporation" n="Zum_Freiburger">
+                  <div type="corporation" n="Zum_Freiburger">
+                     <div type="Poele" n="corporation_des_cabarretiers">
                         <p>
                            <lb n="1"/>Die schöffele züm friburg
                            <lb n="2"/>Item <persName><roleName
