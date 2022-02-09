@@ -50,7 +50,7 @@
       </fileDesc>
       <profileDesc>
          <langUsage>
-            <language ident="gmh">moyen haut allemand tardif 1350-1650</language>
+            <language ident="">moyen haut allemand tardif 1350-1650</language>
          </langUsage>
       </profileDesc>
    </teiHeader>
@@ -683,11 +683,11 @@
                   <div type="corporation" n="corporation_des_barbiers_et_baigneurs">
                      <div type="Poele" n="Barbiers">
                         <p>
-                           <lb n="1"/>Der scherer schöffele
-                           <lb n="2"/>Item <persName><vorname>Rüdolff</vorname></persName>
-                           <lb n="3"/>Item <persName><vorname>Walther</vorname>
+                           <lb n=""/>Der scherer schöffele
+                           <lb n=""/>Item <persName><vorname>Rüdolff</vorname></persName>
+                           <lb n=""/>Item <persName><vorname>Walther</vorname>
                               <addName>zü Sant Thoman</addName> der <roleName>rotherre</roleName></persName>
-                           <lb n="4"/>Item <persName><vorname>Peter</vorname>
+                           <lb n=""/>Item <persName><vorname>Peter</vorname>
                               <surname>von Brümat</surname></persName>
                            <lb n="5"/>Item <persName><surname>Wurtzgart</surname></persName>
                            <lb n="6"/>Item <persName><vorname>Hanns</vorname>
@@ -1029,7 +1029,6 @@
                            <lb n="28"/>Item <persName><vorname>Hanns</vorname>
                               <surname>von Bergheim</surname></persName></p>
                      </div>
-                     <div type="Poele" n="Regrattiers"> <p> <lb/>Altgewender <lb n="29"/>Item <persName><vorname>Ülrich</vorname> <surname>Weidelich</surname> der <roleName>schreiber</roleName></persName> <lb n="30"/>Item <persName><vorname>Andres</vorname> <surname>von Gemer</surname></persName> <lb n="31"/>Item <persName><vorname>Hanns</vorname> <surname>von Molsheim</surname></persName> </p> </div>
                   </div>
                   <pb n="76v"/>
                   <div type="corporation" n="corporation_des_charpentiers">
