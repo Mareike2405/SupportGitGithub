@@ -1,3 +1,4 @@
 Salut Monde
 Hallo Welt
 Hello World
+Moi maailma!
